@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </p>
  
 <p align="center">
-  <a href="https://github.com/Yunlingfly">
+  <a href="https://github.com/moxun33">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moxun33&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-  <a href="https://yunlingfly.github.io">
+  <a href="https://qimajiang.330030.xyz">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=moxun33&repo=moxun33.github.io&theme=algolia" />
   </a>
 </p>

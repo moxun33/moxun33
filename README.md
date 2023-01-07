@@ -19,7 +19,7 @@ I have knowledge of **Flutter** (+ FFI, Platform channels ) & **React.js** (+ Re
 
 <p align="center">
   <a href="https://github.com/moxun33">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yunlingfly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moxun33&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
   </a>
 </p>
  

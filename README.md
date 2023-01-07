@@ -23,11 +23,5 @@ I have knowledge of **Flutter** (+ FFI, Platform channels ) & **React.js** (+ Re
   </a>
 </p>
  
-<p align="center">
-  <a href="https://github.com/moxun33">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moxun33&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-  <a href="https://qimajiang.330030.xyz">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=moxun33&repo=moxun33.github.io&theme=algolia" />
-  </a>
-
+![](https://github.com/moxun33/github-stats/blob/master/generated/overview.svg?raw=true)
+![](https://github.com/moxun33/github-stats/blob/master/generated/languages.svg?raw=true)
